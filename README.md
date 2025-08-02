@@ -6,10 +6,14 @@
 
 ---
 
-<h2 align="center" style="color:#BB86FC;">🖤 Dark and gloomy world of DKJRZ</h2>
+<h1 align="center" style="color:#BB86FC;">🖤 Dark and gloomy world of DKJRZ</h2> 
+
+<br>
+
+<h2 align="center" style="color:#BB86FC;">📊 Languages I know</h2>
 
 <p align="center">
-  <!-- Технології -->
+    
   <a href="https://www.python.org/" target="_blank">
     <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54&color=2f2f3b&labelColor=1f1b1b" alt="Python" />
   </a>

@@ -1,7 +1,7 @@
 <!-- Заголовок з гіфкою, адаптований під темну тему -->
 
 <p align="center">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTZjMDliOTUyYnBuaXlzejJjbTB5eXR5Y3NodTlqcjR2dGYyYzEweGN3bGQxOWVxNSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/fs6OGJ4Eb3ajC/source.gif" alt="Header" width="100%" style="border-radius: 12px;" />
+  <img src="https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif" alt="Header" width="100%" style="border-radius: 12px;" />
 </p>
 
 ---

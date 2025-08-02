@@ -6,7 +6,7 @@
 
 ---
 
-<h1 align="center" style="color:#BB86FC;">🖤 Dark and gloomy world of DKJRZ</h2> 
+<h1 align="center" style="color:#BB86FC;">🖤 Welcome to the Midnight Zone of DKJRZ</h2> 
 
 <br>
 
@@ -70,4 +70,4 @@
 
 ---
 
-<h2 align="center">🖤 Dark and gloomy world of DKJRZ <br> 🙏 Thanks for your attention in this shadowed realm</h2>
+<h2 align="center">🖤 Midnight Zone DKJRZ <br> 🙏 Thank you for your attention in this shadow kingdom </h2>

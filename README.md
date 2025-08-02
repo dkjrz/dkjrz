@@ -1,5 +1,4 @@
-<!-- Заголовок с гифкой, адаптированный под темную тему -->
-
+<!-- Заголовок з гіфкою, адаптований під темну тему -->
 
 <p align="center">
   <img src="https://media2.giphy.com/media/v1.Y2lkPTZjMDliOTUyYnBuaXlzejJjbTB5eXR5Y3NodTlqcjR2dGYyYzEweGN3bGQxOWVxNSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/fs6OGJ4Eb3ajC/source.gif" alt="Header" width="100%" style="border-radius: 12px;" />
@@ -10,8 +9,8 @@
 <h2 align="center" style="color:#BB86FC;">🖤 Dark and gloomy world of DKJRZ</h2>
 
 <p align="center">
-  <!-- Языки -->
-  <a href="https://www.python.org/" target="_blank" rel="noopener">
+  <!-- Технології -->
+  <a href="https://www.python.org/" target="_blank">
     <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54&color=2f2f3b&labelColor=1f1b1b" alt="Python" />
   </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
@@ -26,27 +25,41 @@
 </p>
 
 <p align="center">
-  <!-- Другие технологии -->
-  <a href="https://www.figma.com/" target="_blank" rel="noopener">
+  <!-- Інші -->
+  <a href="https://www.figma.com/" target="_blank">
     <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white&color=3b1b1b&labelColor=1f1b1b" alt="Figma" />
   </a>
-
 </p>
 
 ---
 
-<h2 align="center" style="color:#BB86FC;">🌐 Find me here</h2>
+<h2 align="center" style="color:#BB86FC;">💼 Portfolio</h2>
+
 <p align="center">
-  <a href="https://www.instagram.com/dkjrzz" target="_blank" rel="noopener">
+  🧩 You can view my portfolio and all of my projects here:
+</p>
+
+<p align="center">
+  🔗 <a href="https://dkjrz.github.io/my-portfolio" target="_blank"><strong>My Portfolio Website</strong></a><br>
+  📂 <a href="https://github.com/dkjrz?tab=repositories" target="_blank"><strong>GitHub Repositories</strong></a>
+</p>
+
+
+---
+
+<h2 align="center" style="color:#BB86FC;">🌐 Find me here</h2>
+
+<p align="center">
+  <a href="https://www.instagram.com/dkjrzz" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white&style=for-the-badge&color=2f1b2f&labelColor=1b111b" alt="Instagram" />
   </a>
-  <a href="https://t.me/dkjrz" target="_blank" rel="noopener">
+  <a href="https://t.me/dkjrz" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-26A5E4.svg?style=for-the-badge&logo=telegram&logoColor=white&color=1b2f3b&labelColor=111111" alt="Telegram" />
   </a>
-  <a href="https://steamcommunity.com/id/dkjrz" target="_blank" rel="noopener">
+  <a href="https://steamcommunity.com/id/dkjrz" target="_blank">
     <img src="https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white&color=1b1b1b&labelColor=111111" alt="Steam" />
-  </a>  
-  <a href="https://tiktok.com/@dkjrz_airsoft" target="_blank" rel="noopener">
+  </a>
+  <a href="https://tiktok.com/@dkjrz_airsoft" target="_blank">
     <img src="https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white&style=for-the-badge&color=1b1b1b&labelColor=111111" alt="TikTok" />
   </a>
 </p>
